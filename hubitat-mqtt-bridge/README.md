@@ -14,3 +14,4 @@ Everything is configurable through UI. Available parameters:
 | state_read_suffix    | State read topic suffix       |
 | state_write_suffix   | State write topic suffix      |
 | command_suffix       | Command topics suffix         |
+| bridge_port          | Port bridge listens on        |

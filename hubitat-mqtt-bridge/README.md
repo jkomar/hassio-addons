@@ -1,8 +1,8 @@
 ## Hubitat MQTT bridge add-on for Hass.io
 
-Bridge for pairing Hass.io and Hubitat. More details [here](https://github.com/jeubanks/hubitat-mqtt-bridge)
+Bridge for pairing Hass.io and Hubitat Elevation. More details [here](https://github.com/jeubanks/hubitat-mqtt-bridge)
 
-Everything is configurable through UI. Available params:
+Everything is configurable through UI. Available parameters:
 
 | Param                | Description                   |
 |----------------------|-------------------------------|
